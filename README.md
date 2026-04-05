@@ -68,7 +68,7 @@ This system provides a **RESTful API** to manage IoT device communication secure
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/secure-mqtt-backend.git
+git clone https://github.com/Abhay-098/secure-mqtt-backend.git
 cd secure-mqtt-backend
 pip install -r requirements.txt
 ```
