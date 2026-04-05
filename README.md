@@ -30,7 +30,7 @@ To run the server locally with a test certificate:
 
 Bash
 python app.py
-The server will be available at http://localhost:5000.
+The server will be available at (https://enhancingiotsecurityfinal-rz7vw6rnncvt2omyxyuh4w.streamlit.app/).
 
 3. Production Deployment
 This app is ready for Render. Use the following settings:
