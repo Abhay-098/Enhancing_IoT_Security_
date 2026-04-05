@@ -3,7 +3,7 @@ import requests, json
 
 st.set_page_config(page_title='Server-Client Demo with Backend', layout='wide')
 
-BACKEND = st.text_input('Backend URL (include https:// or http://)', value='http://localhost:5000')
+BACKEND = st.text_input('Backend URL (include https:// or http://)', value='https://secure-mqtt-backend-final.onrender.com')
 if BACKEND.endswith('/'):
     BACKEND = BACKEND[:-1]
 
